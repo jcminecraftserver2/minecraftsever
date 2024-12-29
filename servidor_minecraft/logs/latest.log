@@ -35,3 +35,14 @@
 [05:08:41] [Server thread/INFO]: Time elapsed: 5283 ms
 [05:08:41] [Server thread/INFO]: Done (10.530s)! For help, type "help"
 [05:13:19] [Server thread/INFO]: Made _iBlacKing_ a server operator
+[05:19:59] [Server thread/INFO]: Juancho134565[/127.223.48.122:45655] logged in with entity id 39 at (-0.5, 83.0, -7.5)
+[05:19:59] [Server thread/INFO]: Juancho134565 joined the game
+[05:20:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=80, z=-10}
+[05:20:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=79, z=-8}
+[05:20:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=79, z=-6}
+[05:20:36] [Server thread/INFO]: Banned j	op: Juancho134565
+[05:20:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:20:49] [Server thread/INFO]: unban Juancho134565<--[HERE]
+[05:22:07] [Server thread/INFO]: Juancho134565 has made the advancement [Monster Hunter]
+[05:23:18] [Server thread/INFO]: Juancho134565 lost connection: Disconnected
+[05:23:18] [Server thread/INFO]: Juancho134565 left the game
